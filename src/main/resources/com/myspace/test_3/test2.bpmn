@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bpmn2:definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.omg.org/bpmn20" xmlns:bpmn2="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:bpsim="http://www.bpsim.org/schemas/1.0" xmlns:drools="http://www.jboss.org/drools" id="_I1OJcHp9EeuLFPtWXuCmhw" xsi:schemaLocation="http://www.omg.org/spec/BPMN/20100524/MODEL BPMN20.xsd http://www.jboss.org/drools drools.xsd http://www.bpsim.org/schemas/1.0 bpsim.xsd http://www.omg.org/spec/DD/20100524/DC DC.xsd http://www.omg.org/spec/DD/20100524/DI DI.xsd " exporter="jBPM Process Modeler" exporterVersion="2.0" targetNamespace="http://www.omg.org/bpmn20">
+<bpmn2:definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.omg.org/bpmn20" xmlns:bpmn2="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:bpsim="http://www.bpsim.org/schemas/1.0" xmlns:drools="http://www.jboss.org/drools" id="_ma1jcHp9EeuLFPtWXuCmhw" xsi:schemaLocation="http://www.omg.org/spec/BPMN/20100524/MODEL BPMN20.xsd http://www.jboss.org/drools drools.xsd http://www.bpsim.org/schemas/1.0 bpsim.xsd http://www.omg.org/spec/DD/20100524/DC DC.xsd http://www.omg.org/spec/DD/20100524/DI DI.xsd " exporter="jBPM Process Modeler" exporterVersion="2.0" targetNamespace="http://www.omg.org/bpmn20">
   <bpmn2:process id="test-3.test2" drools:packageName="com.myspace.test_3" drools:version="1.0" drools:adHoc="false" name="test2" isExecutable="true" processType="Public"/>
-  <bpmndi:BPMNDiagram id="_I1OJcXp9EeuLFPtWXuCmhw">
-    <bpmndi:BPMNPlane id="_I1OJcnp9EeuLFPtWXuCmhw" bpmnElement="test-3.test2"/>
+  <bpmndi:BPMNDiagram id="_ma1jcXp9EeuLFPtWXuCmhw">
+    <bpmndi:BPMNPlane id="_ma1jcnp9EeuLFPtWXuCmhw" bpmnElement="test-3.test2"/>
   </bpmndi:BPMNDiagram>
-  <bpmn2:relationship id="_I1OJc3p9EeuLFPtWXuCmhw" type="BPSimData">
+  <bpmn2:relationship id="_ma1jc3p9EeuLFPtWXuCmhw" type="BPSimData">
     <bpmn2:extensionElements>
       <bpsim:BPSimData>
         <bpsim:Scenario xsi:type="bpsim:Scenario" id="default" name="Simulationscenario">
@@ -12,7 +12,7 @@
         </bpsim:Scenario>
       </bpsim:BPSimData>
     </bpmn2:extensionElements>
-    <bpmn2:source>_I1OJcHp9EeuLFPtWXuCmhw</bpmn2:source>
-    <bpmn2:target>_I1OJcHp9EeuLFPtWXuCmhw</bpmn2:target>
+    <bpmn2:source>_ma1jcHp9EeuLFPtWXuCmhw</bpmn2:source>
+    <bpmn2:target>_ma1jcHp9EeuLFPtWXuCmhw</bpmn2:target>
   </bpmn2:relationship>
 </bpmn2:definitions>
